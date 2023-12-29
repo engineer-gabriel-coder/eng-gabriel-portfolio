@@ -56,11 +56,6 @@ const HeroContent = () => {
           Mobile, and Software development. Check out my projects and skills.
           I&apos;m a Full Stack Software Engineer with experience in Website,
           Mobile, and Software development. Check out my projects and skills.
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-           I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-          I&apos;m a Full Stack Software Engineer with experience in Website,
          
         </motion.p>
         <motion.a
