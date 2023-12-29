@@ -47,16 +47,7 @@ const HeroContent = () => {
           className="text-sm text-gray-400 my-5 max-w-[600px]"
         >
           I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-           I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
-         
+        Full Stack Developer with 5+ years of experience and expertise in modern tech Specialized in building scalable, maintainable web apps that meet the needs of both clients and end-users. Experience working with a range of databases, skilled in writing efficient and effective queries to ensure optimal performance. Also proficient in using Git, and have experience deploying apps on cloud platforms such as AWS and Firebase. Well-versed in popular frameworks. 
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
